@@ -9,19 +9,20 @@
 
 - 🔭 I’m currently working on Gen. AI  Projects
 
-- 🌱 I’m currently learning [SAS](https://www.sas.com/en_ca/home.html) & Gen. AI
+- 🌱 I’m currently learning <a href="https://www.sas.com/en_ca/home.html" target="_blank">SaS</a>) & Gen. AI
 
 - 👯 I’m looking to collaborate on [ABC Projects](https://www.xyz.com)
 
 - 👨‍💻 All of my projects are available at [Github Repo.](https://github.com/paudel7?tab=repositories)
 
-- 📝 I try to regularly write articles on [Medium](https://medium.com/@kiran1-paudel2)
+- 📝 I try to regularly write articles on <a href="https://medium.com/@kiran1-paudel2" target="_blank">Medium</a>
+
 
 - 💬 Ask me about database, SQL, Excel
 
 - 📫 How to reach me [Email](kiran1.paudel2@gmail.com)
 
-- 📄 Know about my experiences on [LinkedIn](https://linkedin.com/in/paudelkiran)
+- 📄 Know about my experiences on <a href="https://linkedin.com/in/paudelkiran" target="_blank">LinkedIn</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,9 +32,9 @@
  
 <a href="https://kaggle.com/kiranpaudel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle-abc" height="30" width="40" /></a>
 
-<a href="https://medium.com/@med" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@med" height="30" width="40" /></a>
+<a href="https://medium.com/@kiran1-paudel2" target="_blank">Medium</a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@med" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/c/@youtube/yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@youtube/yt" height="30" width="40" /></a>
+<!--<a href="https://www.youtube.com/c/@youtube/yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@youtube/yt" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
