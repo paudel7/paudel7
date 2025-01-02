@@ -15,19 +15,19 @@
 
 - 👨‍💻 All of my projects are available at [Github Repo.](https://github.com/paudel7?tab=repositories)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@kiran1-paudel2)
+- 📝 I try to regularly write articles on [Medium](https://medium.com/@kiran1-paudel2)
 
 - 💬 Ask me about database, SQL, Excel
 
 - 📫 How to reach me [Email](kiran1.paudel2@gmail.com)
 
-- 📄 Know about my experiences on [LinkedIn](https://linkedin.com/in/linkedin/paudelkiran)
+- 📄 Know about my experiences on [LinkedIn](https://linkedin.com/in/paudelkiran)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--<a href="https://twitter.com/twitter/tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter/tw" height="30" width="40" /></a>-->
 
-<a href="https://linkedin.com/in/linkedin/paudelkiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/abc" height="30" width="40" />
+<a href="https://linkedin.com/in/paudelkiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/abc" height="30" width="40" />
  
 <a href="https://kaggle.com/kiranpaudel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle-abc" height="30" width="40" /></a>
 
