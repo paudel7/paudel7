@@ -29,7 +29,7 @@
 
 <a href="https://linkedin.com/in/linkedin/paudelkiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/abc" height="30" width="40" />
  
-<a href="https://kaggle.com/kaggle-abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle-abc" height="30" width="40" /></a>
+<a href="https://kaggle.com/kiranpaudel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle-abc" height="30" width="40" /></a>
 
 <a href="https://medium.com/@med" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@med" height="30" width="40" /></a>
 
