@@ -15,7 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [Github Repo.](https://github.com/paudel7?tab=repositories)
 
-- 📝 I try to regularly write articles on <a href="https://medium.com/@kiran1-paudel2" target="_blank">Medium</a>
+- 📝 I try to regularly write articles on <a href="https://medium.com/@kiran1-paudel2" target="_blank" rel="noopener noreferrer">Medium</a>
+
 
 
 - 💬 Ask me about database, SQL, Excel
