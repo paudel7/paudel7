@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Gen. AI  Projects
 
-- 🌱 I’m currently learning <a href="https://www.sas.com/en_ca/home.html" target="_blank">SaS</a>) & Gen. AI
+- 🌱 I’m currently learning <a href="https://www.sas.com/en_ca/home.html" target="_blank">SaS</a> & Gen. AI
 
 - 👯 I’m looking to collaborate on [ABC Projects](https://www.xyz.com)
 
