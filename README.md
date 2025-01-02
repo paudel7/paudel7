@@ -9,19 +9,19 @@
 
 - 🔭 I’m currently working on Gen. AI  Projects
 
-- 🌱 I’m currently learning <a href="https://www.sas.com/en_ca/home.html" target="_blank">SaS</a> & Gen. AI
+- 🌱 I’m currently learning cloud and Gen. AI.
 
-- 👯 I’m looking to collaborate on [ABC Projects](https://www.xyz.com)
+<!-- - 👯 I’m looking to collaborate on [ABC Projects](https://www.xyz.com) -->
 
 - 👨‍💻 All of my projects are available at [Github Repo.](https://github.com/paudel7?tab=repositories)
 
-- 📝 I try to regularly write articles on <a href="https://medium.com/@kiran1-paudel2" target="_blank" rel="noopener noreferrer">Medium</a>
+- 📝 I sometimes write articles on <a href="https://medium.com/@kiran1-paudel2" target="_blank" rel="noopener noreferrer">Medium</a>
 
 
 
-- 💬 Ask me about database, SQL, Excel
+- 💬 Fond of being enquired about database, SQL, Excel !
 
-- 📫 How to reach me [Email](kiran1.paudel2@gmail.com)
+- 📫 Reach me [Email](kiran1.paudel2@gmail.com)
 
 - 📄 Know about my experiences on <a href="https://linkedin.com/in/paudelkiran" target="_blank">LinkedIn</a>
 
