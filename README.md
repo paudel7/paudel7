@@ -2,7 +2,7 @@
 
 <!-- <img align="right" src="https://visitor-badge.laohi.icu/badge?page_id=salesp07.salesp07"/> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!;I+am+Kiran;Welcome+to+my+Github+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!;I+am+Kiran!!;Welcome+to+my+Github+!!!)](https://git.io/typing-svg)
 
 <div align="center">
 <h3 align="center">A passionate Business Analyst cum BI/Data Analyst Developer</h3>
