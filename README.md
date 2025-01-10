@@ -23,7 +23,7 @@
 
 📝 I sometimes write articles on <a href="https://medium.com/@kiran1-paudel2" target="_blank" rel="noopener noreferrer">Medium</a>
 
- 💬 Fond of playing with database, SQL, Excel !
+ 💬 I am fond of playing with database, SQL, Excel, Python, HTML etc. !
 
  📫 Reach out to me @ [Email](kiran1.paudel2@gmail.com)
 
@@ -41,7 +41,20 @@
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
 </a>
  <a href="https://paudel7-python.streamlit.app/" target="_blank">
-<img src="https://img.shields.io/badge/Sample-Project-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/Sample-Project-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <br>
+<a href="https://datamap.dataforai.tech/" target="_blank"><br>
+ <div align="center">
+<h4 align="left">Try My Tools:</h4>
+<img src="https://img.shields.io/badge/Try My Tool >>> (Data Mapping GUI)-FF4444?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
+<a href="https://bizanalyst.dataforai.tech/" target="_blank">
+<img src="https://img.shields.io/badge/Try My Tool >>> (Excel, Pivot & Statistical Analysis)-FF9631?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
+<a href="https://bizanalyst.dataforai.tech/" target="_blank">
+<img src="https://img.shields.io/badge/Try My Tool >>> (Resume Tailor Combo GPT)-FF1369?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
+<a href="https://chatgpt.com/g/g-86bdXJwla-resume-tailor" target="_blank">
+<img src="https://img.shields.io/badge/Try My Tool >>> (Financial Statement Analyzer GPT)-FF7531?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
+<a href="https://chatgpt.com/g/g-5EUBVALxN-financial-statement-analyzer" target="_blank">
+
+  
 </a>
 </div>
 
