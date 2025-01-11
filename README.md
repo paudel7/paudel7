@@ -45,7 +45,7 @@
 <a href="https://datamap.dataforai.tech/" target="_blank"><br>
  <div align="center">
 <h4 align="left">Try My Tools:</h4>
-<img src="https://img.shields.io/badge/Try My Tool >>> (Data Mapping GUI)-FF4444?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
+<img src="https://img.shields.io/badge/Try My Tool >>> Data Mapping GUI-FF4444?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
 <a href="https://bizanalyst.dataforai.tech/" target="_blank">
 <img src="https://img.shields.io/badge/Try My Tool >>> (Excel, Pivot & Statistical Analysis)-FF9631?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
 <a href="https://bizanalyst.dataforai.tech/" target="_blank">
