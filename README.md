@@ -34,28 +34,36 @@
 <a href="mailto:kiran1.paudel2@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
+ 
 <a href="https://linkedin.com/in/paudelkiran" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
+
 <a href="https://paudel7.github.io/Portfolio_Kiran/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
 </a>
+
  <a href="https://paudel7-python.streamlit.app/" target="_blank">
 <img src="https://img.shields.io/badge/Sample-Project-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <br>
-<a href="https://datamap.dataforai.tech/" target="_blank"><br>
- <div align="center">
-<h4 align="left">Try My Tools:</h4>
-<img src="https://img.shields.io/badge/Try My Tool >>> Data Mapping GUI-FF4444?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
-<a href="https://bizanalyst.dataforai.tech/" target="_blank">
-<img src="https://img.shields.io/badge/Try My Tool >>> (Excel, Pivot & Statistical Analysis)-FF9631?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
-<a href="https://bizanalyst.dataforai.tech/" target="_blank">
-<img src="https://img.shields.io/badge/Try My Tool >>> (Resume Tailor Combo GPT)-FF1369?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
-<a href="https://chatgpt.com/g/g-86bdXJwla-resume-tailor" target="_blank">
-<img src="https://img.shields.io/badge/Try My Tool >>> (Financial Statement Analyzer GPT)-FF7531?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
-<a href="https://chatgpt.com/g/g-5EUBVALxN-financial-statement-analyzer" target="_blank">
-
   
+
+
+ <div align="center">
+  
+<h4 align="left">Try My Tools:</h4>
+<a href="https://datamap.dataforai.tech/" target="_blank"><br>
+<img src="https://img.shields.io/badge/Data-Mapping GUI-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <br>
+
+<img src="https://img.shields.io/badge/>>> Excel, Pivot & Statistical Analysis-FF9631?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
+<a href="https://bizanalyst.dataforai.tech/" target="_blank">
+ 
+<img src="https://img.shields.io/badge/>>>Resume Tailor Combo GPT-FF1369?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
+<a href="https://chatgpt.com/g/g-86bdXJwla-resume-tailor" target="_blank">
+ 
+<img src="https://img.shields.io/badge/>>>Financial Statement Analyzer GPT-FF7531?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><br>
+<a href="https://chatgpt.com/g/g-5EUBVALxN-financial-statement-analyzer" target="_blank">  
 </a>
+ 
 </div>
 
 
